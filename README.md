@@ -17,7 +17,10 @@ The skin is about 80% complete based on its original concept, with the only thin
 ---
 ## Credits
 
-m1024x: Inspiration for icons
-Massimiliano Torromeo/podulator: For GMenu2x, GMenuNX/350teric, and providing sources for more detailed skin customization.
-Namco: Inspiration for design, certain assets, and making a critically underrated PS2 RPG.
-Depression and Procrastination: Because of course.
+*m1024x:* Inspiration for icons
+
+*Massimiliano Torromeo & podulator:* For GMenu2x, GMenuNX/350teric, respectively, and providing sources for more detailed skin customization.
+
+*Namco:* Inspiration for design, certain assets, and making a critically underrated PS2 RPG.
+
+*Depression and Procrastination:* Because of course.
