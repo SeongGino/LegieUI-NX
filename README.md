@@ -15,7 +15,7 @@ Legendia is unique amongst the series (or at least, what little we Yanks got in 
 The skin is about 80% complete based on its original concept, with the only thing lost being custom link icons. I intended to make thematically appropriate icons made for at least the basic system items, but laziness/not being a graphic design major caused it to get shoved aside while getting the essentials right. While I plan to do this for the system category, there are no guarantees for apps/emus/games as there's WAY too friggin many to account for.
 
 ---
-##Credits
+## Credits
 
 m1024x: Inspiration for icons
 Massimiliano Torromeo/podulator: For GMenu2x, GMenuNX/350teric, and providing sources for more detailed skin customization.
