@@ -1,7 +1,7 @@
 # LegieUI - NX Version
 v0.81 (12/08/2019)
 ---
-To install, extract the LegieUI_NX-Grid and LegieUI_NX-List folders to ~/home/.gmenu2x/skins/.
+To install, extract the LegieUI_Grid folder to `~/home/.esoteric/skins/`.
 
 This pack is targeted for 350teric ver. 12/04/2019 or newer.
 
