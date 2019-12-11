@@ -7,6 +7,8 @@ This pack is targeted for 350teric ver. 12/04/2019 or newer.
 
 This skin is made exclusively for 350teric's (default) grid mode, when using more than one column of links. The background design is not made for list mode, so please keep this in mind!
 
+![header](https://github.com/SeongGino/LegieUI-NX/blob/master/LegieUI_v0.81-preview.png)
+
 ---
 This pack currently aims to *loosely* emulate the feel of the original menu interfaces used in the PlayStation 2 GOAT JRPG, Tales of Legendia.
 
