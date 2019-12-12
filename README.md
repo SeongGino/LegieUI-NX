@@ -4,7 +4,7 @@ Ver. 12/08/2019
 ---
 To install, extract the LegieUI_Grid folder to `~/home/.esoteric/skins/`.
 
-This pack is targeted for 350teric ver. 12/04/2019 or newer.
+This pack is targeted for [350teric ver. 12/04/2019](https://cdn.discordapp.com/attachments/624204385446264838/653993972611416064/esoteric.opk) or newer.
 
 This skin is made exclusively for 350teric's (default) grid mode, when using more than one column of links. The background design is not made for list mode, so please keep this in mind!
 
