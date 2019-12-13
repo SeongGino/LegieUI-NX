@@ -1,6 +1,6 @@
 # LegieUI - NX Version
 
-Ver. 12/08/2019
+Ver. 12/13/2019
 ---
 To install, extract the LegieUI_Grid folder to `~/home/.esoteric/skins/`.
 
